@@ -1,0 +1,350 @@
+<mxfile host="Electron">
+  <diagram name="Pagina-1" id="2cy5niQMD-edCxOKZaV9">
+    <mxGraphModel dx="1191" dy="917" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="z3stwei3dr9h2rfPULHs-25" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="z3stwei3dr9h2rfPULHs-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400.01" y="462.01" />
+              <mxPoint x="520.01" y="462.01" />
+            </Array>
+            <mxPoint x="400" y="433" as="sourcePoint" />
+            <mxPoint x="520" y="501.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z3stwei3dr9h2rfPULHs-2" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#FFFFCC;" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;team 1 raad een woord&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="372" as="geometry" />
+        </mxCell>
+        <mxCell id="z3stwei3dr9h2rfPULHs-12" edge="1" parent="1" source="z3stwei3dr9h2rfPULHs-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="z3stwei3dr9h2rfPULHs-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z3stwei3dr9h2rfPULHs-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCFF;" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;start&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="460" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="z3stwei3dr9h2rfPULHs-22" edge="1" parent="1" source="z3stwei3dr9h2rfPULHs-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="z3stwei3dr9h2rfPULHs-21" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z3stwei3dr9h2rfPULHs-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;spel selecteerd een wilkeurige woord uit de woordenlijst&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="460" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="z3stwei3dr9h2rfPULHs-17" edge="1" parent="1" source="z3stwei3dr9h2rfPULHs-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="373" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z3stwei3dr9h2rfPULHs-20" edge="1" parent="1" source="z3stwei3dr9h2rfPULHs-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="373" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z3stwei3dr9h2rfPULHs-14" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#E6E6E6;align=center;" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;welk&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;team&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); background-color: transparent;&quot;&gt;is aan&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;de beurt?&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="480" y="273" as="geometry" />
+        </mxCell>
+        <mxCell id="z3stwei3dr9h2rfPULHs-27" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640.01" y="462.01" />
+              <mxPoint x="520.01" y="462.01" />
+            </Array>
+            <mxPoint x="640" y="432" as="sourcePoint" />
+            <mxPoint x="520" y="501.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z3stwei3dr9h2rfPULHs-18" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#FFFFCC;" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;team 2 raad een woord&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="580" y="372" as="geometry" />
+        </mxCell>
+        <mxCell id="z3stwei3dr9h2rfPULHs-23" edge="1" parent="1" source="z3stwei3dr9h2rfPULHs-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="z3stwei3dr9h2rfPULHs-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z3stwei3dr9h2rfPULHs-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;laat de eerste letter zien&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="460" y="181" as="geometry" />
+        </mxCell>
+        <mxCell id="z3stwei3dr9h2rfPULHs-29" edge="1" parent="1" source="z3stwei3dr9h2rfPULHs-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="z3stwei3dr9h2rfPULHs-28" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z3stwei3dr9h2rfPULHs-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" value="&lt;font color=&quot;#000000&quot;&gt;check voor letter die op de goede plek zitten en maak ze groen&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="460" y="502" as="geometry" />
+        </mxCell>
+        <mxCell id="z3stwei3dr9h2rfPULHs-31" edge="1" parent="1" source="z3stwei3dr9h2rfPULHs-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="z3stwei3dr9h2rfPULHs-30" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z3stwei3dr9h2rfPULHs-42" connectable="0" parent="z3stwei3dr9h2rfPULHs-31" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="nee" vertex="1">
+          <mxGeometry relative="1" x="-0.466" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z3stwei3dr9h2rfPULHs-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 10px;&quot;&gt;check voor letters die in het woord zitten en niet op de goede plek zitten in het woord en maak die geel&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="460" y="587" as="geometry" />
+        </mxCell>
+        <mxCell id="z3stwei3dr9h2rfPULHs-32" edge="1" parent="1" source="z3stwei3dr9h2rfPULHs-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" target="z3stwei3dr9h2rfPULHs-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="710" y="841" />
+            </Array>
+            <mxPoint x="590" y="272" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z3stwei3dr9h2rfPULHs-33" connectable="0" parent="z3stwei3dr9h2rfPULHs-32" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="nee" vertex="1">
+          <mxGeometry relative="1" x="-0.7903" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z3stwei3dr9h2rfPULHs-35" edge="1" parent="1" source="z3stwei3dr9h2rfPULHs-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="z3stwei3dr9h2rfPULHs-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="620" y="861" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z3stwei3dr9h2rfPULHs-36" connectable="0" parent="z3stwei3dr9h2rfPULHs-35" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="ja" vertex="1">
+          <mxGeometry relative="1" x="-0.0281" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z3stwei3dr9h2rfPULHs-30" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#E6E6E6;align=center;" value="&lt;font color=&quot;#000000&quot;&gt;is er 5 keer geraden deze beurt&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="480" y="801" as="geometry" />
+        </mxCell>
+        <mxCell id="z3stwei3dr9h2rfPULHs-37" edge="1" parent="1" source="z3stwei3dr9h2rfPULHs-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" target="z3stwei3dr9h2rfPULHs-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="740" y="911" />
+              <mxPoint x="740" y="226" />
+            </Array>
+            <mxPoint x="620" y="252" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z3stwei3dr9h2rfPULHs-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" value="&lt;font color=&quot;#000000&quot;&gt;verander welk team aan de beurt is&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="560" y="881" as="geometry" />
+        </mxCell>
+        <mxCell id="z3stwei3dr9h2rfPULHs-41" edge="1" parent="1" source="z3stwei3dr9h2rfPULHs-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="z3stwei3dr9h2rfPULHs-40" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="647" as="sourcePoint" />
+            <mxPoint x="520" y="801" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z3stwei3dr9h2rfPULHs-46" edge="1" parent="1" source="z3stwei3dr9h2rfPULHs-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="z3stwei3dr9h2rfPULHs-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z3stwei3dr9h2rfPULHs-112" connectable="0" parent="z3stwei3dr9h2rfPULHs-46" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="ja" vertex="1">
+          <mxGeometry relative="1" x="-0.8218" y="4" as="geometry">
+            <mxPoint y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z3stwei3dr9h2rfPULHs-40" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#E6E6E6;align=center;" value="&lt;font color=&quot;#000000&quot;&gt;is het&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;woord goed&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;geraden?&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="480" y="684" as="geometry" />
+        </mxCell>
+        <mxCell id="z3stwei3dr9h2rfPULHs-45" edge="1" parent="1" source="z3stwei3dr9h2rfPULHs-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="z3stwei3dr9h2rfPULHs-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z3stwei3dr9h2rfPULHs-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;laat alle goed geraden letters zien&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="590" y="181" as="geometry" />
+        </mxCell>
+        <mxCell id="z3stwei3dr9h2rfPULHs-54" edge="1" parent="1" source="z3stwei3dr9h2rfPULHs-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="z3stwei3dr9h2rfPULHs-53" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z3stwei3dr9h2rfPULHs-48" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" value="&lt;font color=&quot;#000000&quot;&gt;team die het goed heeft geraden pakt een bal&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="440" y="960" as="geometry" />
+        </mxCell>
+        <mxCell id="z3stwei3dr9h2rfPULHs-56" edge="1" parent="1" source="z3stwei3dr9h2rfPULHs-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="z3stwei3dr9h2rfPULHs-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z3stwei3dr9h2rfPULHs-66" connectable="0" parent="z3stwei3dr9h2rfPULHs-56" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="ja" vertex="1">
+          <mxGeometry relative="1" x="-0.3471" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z3stwei3dr9h2rfPULHs-72" connectable="0" parent="z3stwei3dr9h2rfPULHs-56" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="ja" vertex="1">
+          <mxGeometry relative="1" x="-0.3471" y="-2" as="geometry">
+            <mxPoint x="2" y="106" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z3stwei3dr9h2rfPULHs-68" edge="1" parent="1" source="z3stwei3dr9h2rfPULHs-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="z3stwei3dr9h2rfPULHs-67" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z3stwei3dr9h2rfPULHs-53" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#E6E6E6;align=center;" value="&lt;font color=&quot;#000000&quot;&gt;rode bal gepakt?&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="460" y="1050" as="geometry" />
+        </mxCell>
+        <mxCell id="z3stwei3dr9h2rfPULHs-60" edge="1" parent="1" source="z3stwei3dr9h2rfPULHs-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="z3stwei3dr9h2rfPULHs-59" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z3stwei3dr9h2rfPULHs-55" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" value="&lt;font color=&quot;#000000&quot;&gt;tel de rode bal op&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="580" y="1060" as="geometry" />
+        </mxCell>
+        <mxCell id="z3stwei3dr9h2rfPULHs-62" edge="1" parent="1" source="z3stwei3dr9h2rfPULHs-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="z3stwei3dr9h2rfPULHs-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z3stwei3dr9h2rfPULHs-63" connectable="0" parent="z3stwei3dr9h2rfPULHs-62" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="ja" vertex="1">
+          <mxGeometry relative="1" x="-0.5627" y="-2" as="geometry">
+            <mxPoint x="6" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z3stwei3dr9h2rfPULHs-69" edge="1" parent="1" source="z3stwei3dr9h2rfPULHs-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="z3stwei3dr9h2rfPULHs-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z3stwei3dr9h2rfPULHs-70" connectable="0" parent="z3stwei3dr9h2rfPULHs-69" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="nee" vertex="1">
+          <mxGeometry relative="1" x="-0.4122" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z3stwei3dr9h2rfPULHs-59" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#E6E6E6;align=center;" value="&lt;font color=&quot;#000000&quot;&gt;3 rode&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;ballen?&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="720" y="1050" as="geometry" />
+        </mxCell>
+        <mxCell id="z3stwei3dr9h2rfPULHs-104" edge="1" parent="1" source="z3stwei3dr9h2rfPULHs-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="z3stwei3dr9h2rfPULHs-101">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="990.08" y="1090" />
+              <mxPoint x="990.08" y="1198" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z3stwei3dr9h2rfPULHs-61" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" value="&lt;font color=&quot;#000000&quot;&gt;ander team wint&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="840" y="1060" as="geometry" />
+        </mxCell>
+        <mxCell id="z3stwei3dr9h2rfPULHs-79" edge="1" parent="1" source="z3stwei3dr9h2rfPULHs-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="z3stwei3dr9h2rfPULHs-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z3stwei3dr9h2rfPULHs-83" edge="1" parent="1" source="z3stwei3dr9h2rfPULHs-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="z3stwei3dr9h2rfPULHs-81" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z3stwei3dr9h2rfPULHs-67" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#E6E6E6;align=center;" value="&lt;font color=&quot;#000000&quot;&gt;groene bal gepakt?&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="460" y="1159" as="geometry" />
+        </mxCell>
+        <mxCell id="z3stwei3dr9h2rfPULHs-73" edge="1" parent="1" source="z3stwei3dr9h2rfPULHs-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="z3stwei3dr9h2rfPULHs-77" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z3stwei3dr9h2rfPULHs-74" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" value="&lt;font color=&quot;#000000&quot;&gt;tel de groene bal op&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="582" y="1168" as="geometry" />
+        </mxCell>
+        <mxCell id="z3stwei3dr9h2rfPULHs-75" edge="1" parent="1" source="z3stwei3dr9h2rfPULHs-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="z3stwei3dr9h2rfPULHs-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z3stwei3dr9h2rfPULHs-76" connectable="0" parent="z3stwei3dr9h2rfPULHs-75" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="ja" vertex="1">
+          <mxGeometry relative="1" x="-0.5627" y="-2" as="geometry">
+            <mxPoint x="6" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z3stwei3dr9h2rfPULHs-96" edge="1" parent="1" source="z3stwei3dr9h2rfPULHs-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" target="z3stwei3dr9h2rfPULHs-92">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1020.08" y="1238" />
+              <mxPoint x="1020.08" y="1410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z3stwei3dr9h2rfPULHs-77" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#E6E6E6;align=center;" value="&lt;font color=&quot;#000000&quot;&gt;3 groene&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;ballen?&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="722" y="1158" as="geometry" />
+        </mxCell>
+        <mxCell id="z3stwei3dr9h2rfPULHs-102" edge="1" parent="1" source="z3stwei3dr9h2rfPULHs-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="z3stwei3dr9h2rfPULHs-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z3stwei3dr9h2rfPULHs-78" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" value="&lt;font color=&quot;#000000&quot;&gt;team wint&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="842" y="1168" as="geometry" />
+        </mxCell>
+        <mxCell id="z3stwei3dr9h2rfPULHs-85" edge="1" parent="1" source="z3stwei3dr9h2rfPULHs-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="z3stwei3dr9h2rfPULHs-84" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z3stwei3dr9h2rfPULHs-93" edge="1" parent="1" source="z3stwei3dr9h2rfPULHs-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="z3stwei3dr9h2rfPULHs-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z3stwei3dr9h2rfPULHs-81" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" value="&lt;font color=&quot;#000000&quot;&gt;zit de nummer op je kaart&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="439" y="1290" as="geometry" />
+        </mxCell>
+        <mxCell id="z3stwei3dr9h2rfPULHs-90" edge="1" parent="1" source="z3stwei3dr9h2rfPULHs-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="z3stwei3dr9h2rfPULHs-88" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z3stwei3dr9h2rfPULHs-84" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" value="&lt;font color=&quot;#000000&quot;&gt;kruis de nummer af&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="582" y="1290" as="geometry" />
+        </mxCell>
+        <mxCell id="z3stwei3dr9h2rfPULHs-86" edge="1" parent="1" source="z3stwei3dr9h2rfPULHs-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="z3stwei3dr9h2rfPULHs-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z3stwei3dr9h2rfPULHs-87" connectable="0" parent="z3stwei3dr9h2rfPULHs-86" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="ja" vertex="1">
+          <mxGeometry relative="1" x="-0.5627" y="-2" as="geometry">
+            <mxPoint x="6" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z3stwei3dr9h2rfPULHs-97" edge="1" parent="1" source="z3stwei3dr9h2rfPULHs-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" target="z3stwei3dr9h2rfPULHs-92">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="760.08" y="1410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z3stwei3dr9h2rfPULHs-100" connectable="0" parent="z3stwei3dr9h2rfPULHs-97" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="nee" vertex="1">
+          <mxGeometry relative="1" x="-0.6875" y="-2" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z3stwei3dr9h2rfPULHs-88" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#E6E6E6;align=center;" value="&lt;font color=&quot;#000000&quot;&gt;heb je een lijn?&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="720" y="1280" as="geometry" />
+        </mxCell>
+        <mxCell id="z3stwei3dr9h2rfPULHs-105" edge="1" parent="1" source="z3stwei3dr9h2rfPULHs-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="z3stwei3dr9h2rfPULHs-101">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="990" y="1320" />
+              <mxPoint x="990" y="1198" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z3stwei3dr9h2rfPULHs-89" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" value="&lt;font color=&quot;#000000&quot;&gt;team wint&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="840" y="1290" as="geometry" />
+        </mxCell>
+        <mxCell id="z3stwei3dr9h2rfPULHs-94" edge="1" parent="1" source="z3stwei3dr9h2rfPULHs-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" target="z3stwei3dr9h2rfPULHs-48">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380.08" y="1430" />
+              <mxPoint x="380.08" y="1020" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z3stwei3dr9h2rfPULHs-98" connectable="0" parent="z3stwei3dr9h2rfPULHs-94" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="nee" vertex="1">
+          <mxGeometry relative="1" x="-0.8569" y="6" as="geometry">
+            <mxPoint x="1" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z3stwei3dr9h2rfPULHs-95" edge="1" parent="1" source="z3stwei3dr9h2rfPULHs-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" target="z3stwei3dr9h2rfPULHs-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1050.08" y="1430" />
+              <mxPoint x="1050.08" y="926" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z3stwei3dr9h2rfPULHs-99" connectable="0" parent="z3stwei3dr9h2rfPULHs-95" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="ja" vertex="1">
+          <mxGeometry relative="1" x="-0.9701" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z3stwei3dr9h2rfPULHs-92" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#E6E6E6;align=center;" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;heb je&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;al 2 ballen gepakt?&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="459" y="1390" as="geometry" />
+        </mxCell>
+        <mxCell id="z3stwei3dr9h2rfPULHs-107" edge="1" parent="1" source="z3stwei3dr9h2rfPULHs-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="z3stwei3dr9h2rfPULHs-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z3stwei3dr9h2rfPULHs-108" connectable="0" parent="z3stwei3dr9h2rfPULHs-107" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="nee" vertex="1">
+          <mxGeometry relative="1" x="-0.4602" y="-2" as="geometry">
+            <mxPoint x="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z3stwei3dr9h2rfPULHs-109" edge="1" parent="1" source="z3stwei3dr9h2rfPULHs-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="z3stwei3dr9h2rfPULHs-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z3stwei3dr9h2rfPULHs-111" connectable="0" parent="z3stwei3dr9h2rfPULHs-109" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="ja" vertex="1">
+          <mxGeometry relative="1" x="-0.9703" y="3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z3stwei3dr9h2rfPULHs-101" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#FFFFCC;" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;wil je nog een&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;keer spelen?&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="1090" y="1168" as="geometry" />
+        </mxCell>
+        <mxCell id="z3stwei3dr9h2rfPULHs-106" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCFF;" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;end&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="1241" y="1178" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
