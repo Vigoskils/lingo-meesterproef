@@ -1,0 +1,11 @@
+team = "team 1"
+correct = [0]
+spelen = True
+team_1_points = 0
+team_1_wint = False
+team_1_rode_ballen = 0
+team_1_groene_ballen = 0
+team_2_points = 0
+team_2_wint = False
+team_2_rode_ballen = 0
+team_2_groene_ballen = 0

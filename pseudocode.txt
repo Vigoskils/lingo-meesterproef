@@ -1,0 +1,41 @@
+START
+team 1 is aan de beurt
+while spelen
+    while woord raden
+        laat de eerste letter van het woord zien + goede letters van vorige gokken
+        input welk woord wil je raden team 1/2
+        check voor het woord als er letters op de goede plek staan 
+            maak die groen
+        letters die in het woord staan maar op de foute plek
+            maak die geel
+        als heel het woord goed is
+            ga uit de loop
+        als er 5 keer is geraden
+            verander van team die aan het raden is
+    als het team 10 woorden goed heeft geraden
+        gewonnen
+        breek uit de loop
+    while ballen pakken
+        pak een bal
+        als de bal rood is
+            als dit de 3de rode bal is
+                verloren
+            breek uit de loop
+        als de bal groen is
+            als dit de 3de groene bal is
+                gewonnen
+                breek uit de loop
+        anders
+            als het nummertje op je kaart zit streep hem af
+                als je een lijn hebt
+                    gewonnen
+                    breek uit de loop
+        als je twee ballen heb gepakt
+            breek uit de loop
+    als er een winnaar is
+    input willen jullie nog een ronde spelen?
+    als je het antwoord nee is
+        breek uit de loop
+    anders
+        niks
+END
