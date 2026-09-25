@@ -21,3 +21,25 @@ while playing:
                 print(f"{team} heeft nu {team_2_points} punten")    
             correct = [0]
             break
+        ballen_gepakt = 0
+    while ballen_gepakt < 2:
+        ballen_gepakt += 1
+        if team == "team 1":
+            bal = ballen_pakken(team_1_ballen_lijst)
+            if bal == "groen":
+                team_1_groene_ballen += 1
+            elif bal == "rood":
+                team_1_rode_ballen += 1
+            else:
+                gepakte_ballen.append(bal)
+                
+        if team == "team 2":
+            bal = ballen_pakken(team_2_ballen_lijst)
+            if bal == "groen":
+                team_2_groene_ballen += 1
+            elif bal == "rood":
+                team_2_rode_ballen += 1
+            else:
+                gepakte_ballen.append(bal)
+        
+        print(bal)

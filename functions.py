@@ -60,3 +60,7 @@ def woord_checken(woord:list, geraden:list, correct:list) -> list:
         else:
             cprint(f"{geraden[i]}", on_color=dictionary[i], end='')
     return correct
+
+def ballen_pakken(ballen_lijst):
+    random.shuffle(ballen_lijst)
+    return ballen_lijst.pop(0)
