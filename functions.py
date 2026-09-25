@@ -64,3 +64,20 @@ def woord_checken(woord:list, geraden:list, correct:list) -> list:
 def ballen_pakken(ballen_lijst):
     random.shuffle(ballen_lijst)
     return ballen_lijst.pop(0)
+
+def kaart_generator():
+    bingo_kaart = []
+    while len(bingo_kaart) < 16:
+        getal = random.randint(1,30)
+        if getal not in bingo_kaart:
+            bingo_kaart.append(getal)
+    i = 0
+    print("-----kaart-----")
+    for nummer in bingo_kaart:
+        i += 1
+        if i == 4:
+            i = 0
+            print(nummer)
+        else:
+            print(f"{nummer:3}", end=' ')
+    return bingo_kaart

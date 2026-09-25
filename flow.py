@@ -2,6 +2,9 @@ from data import *
 from functions import *
 from lingowords import * 
 
+team_1_kaart = kaart_generator()
+team_2_kaart = kaart_generator()
+
 while playing:
     woord = woord_aanmaken(words)
     woord = woord_aanmaken(words)
@@ -32,7 +35,7 @@ while playing:
                 team_1_rode_ballen += 1
             else:
                 gepakte_ballen.append(bal)
-                
+
         if team == "team 2":
             bal = ballen_pakken(team_2_ballen_lijst)
             if bal == "groen":
