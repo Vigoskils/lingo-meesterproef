@@ -9,7 +9,10 @@ while playing:
     woord = woord_aanmaken(words)
     woord = list(woord)
     raden = True
+    poging = 0
     while raden:
+        poging += 1
+        print("poging: ", poging)
         laat_zien = laten_zien(woord, correct)
         geraden = woord_raden(team, laat_zien)
         correct = woord_checken(woord, geraden, correct)
@@ -23,6 +26,11 @@ while playing:
                 print(f"{team} heeft nu {team_2_points} punten")    
             correct = [0]
             break
+        if poging == 5:
+            print("sorry je kansen zijn op")
+            team = team_switch(team)
+            woord = woord_aanmaken(words)
+            poging = 0
     ballen_gepakt = 0
     while ballen_gepakt < 2:
         ballen_gepakt += 1
