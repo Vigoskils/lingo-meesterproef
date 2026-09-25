@@ -81,3 +81,56 @@ def kaart_generator():
         else:
             print(f"{nummer:3}", end=' ')
     return bingo_kaart
+
+def kaart_checken(bingo_kaart, gepakt, team):
+    dictionary = {
+
+    }
+    for j in range(len(bingo_kaart)):
+        if bingo_kaart[j] in gepakt:
+            dictionary[j] = "on_green"
+        else:
+            dictionary[j] = "on_black"
+    print(team, ":")
+    print("-----kaart-----")
+    for i in range(len(bingo_kaart)):
+        if (i+1)%4 == 0:
+            cprint(f"{bingo_kaart[i]}", on_color=dictionary[i], end="\n")
+        else:
+            cprint(f"{bingo_kaart[i]:3}", on_color=dictionary[i], end=' ')
+
+    lijn = False
+    for i in range(4):
+        correct = 0
+        for j in range(0+4*i,4+4*i):
+            if dictionary[j] == "on_green":
+                correct += 1
+                if correct == 4:
+                    lijn = True
+                    print("je hebt een horizontale lijn")
+
+    for i in range(4):
+        correct = 0
+        for j in range(0+i,13+i,4):
+            if dictionary[j] == "on_green":
+                correct += 1
+                if correct == 4:
+                    lijn = True
+                    print("je hebt een verticale lijn")
+
+    for i in range(2):
+        correct = 0
+        for j in range(0+3*i,16-3*i, 5-2*i):
+            if dictionary[j] == "on_green":
+                correct += 1
+                if correct == 4:
+                    lijn = True
+                    print("je hebt een diagonale lijn")
+
+    return lijn
+
+def team_switch(team):
+    if team == "team 1":
+        return "team 2"
+    else:
+        return "team 1"

@@ -7,7 +7,6 @@ team_2_kaart = kaart_generator()
 
 while playing:
     woord = woord_aanmaken(words)
-    woord = woord_aanmaken(words)
     woord = list(woord)
     raden = True
     while raden:
@@ -24,25 +23,32 @@ while playing:
                 print(f"{team} heeft nu {team_2_points} punten")    
             correct = [0]
             break
-        ballen_gepakt = 0
+    ballen_gepakt = 0
     while ballen_gepakt < 2:
         ballen_gepakt += 1
         if team == "team 1":
             bal = ballen_pakken(team_1_ballen_lijst)
+            print("de bal is: ",bal)
             if bal == "groen":
                 team_1_groene_ballen += 1
             elif bal == "rood":
                 team_1_rode_ballen += 1
             else:
                 gepakte_ballen.append(bal)
+                kaart_checken(team_1_kaart, gepakte_ballen, "team 1")
+                kaart_checken(team_2_kaart, gepakte_ballen, "team 2")
 
-        if team == "team 2":
+        else:
             bal = ballen_pakken(team_2_ballen_lijst)
+            print("de bal is: ",bal)
             if bal == "groen":
                 team_2_groene_ballen += 1
             elif bal == "rood":
                 team_2_rode_ballen += 1
             else:
                 gepakte_ballen.append(bal)
+                kaart_checken(team_2_kaart, gepakte_ballen, "team 2")
+                kaart_checken(team_1_kaart, gepakte_ballen, "team 1")
+
+    team = team_switch(team)
         
-        print(bal)
