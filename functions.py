@@ -134,3 +134,20 @@ def team_switch(team):
         return "team 2"
     else:
         return "team 1"
+
+def CheckPoints(points):
+    if points == 10:
+        print("dat betekent dat je hebt gewonnen")
+        return True
+    else:
+        return False
+
+def CheckBallen(ballen):
+    if ballen == 3:
+        return True
+    else:
+        return False
+
+def win_bericht(team):
+    print(f"dat betekent dat {team} heeft gewonnen")
+    return input("willen jullie nog een ronde spelen").lower()
